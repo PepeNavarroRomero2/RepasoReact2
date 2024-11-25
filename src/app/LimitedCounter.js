@@ -13,8 +13,8 @@ export default function LimitedCounter(){
             <p>Contador: {actualValue}</p>
             <div style={{ display: "flex", alignItems: "center" }}>
                 <button onClick={()=>{
-                    if(actualValue<maxValue){
-                        setactualValue(actualValue+1)
+                    if(actualValue < maxValue){
+                        setactualValue(actualValue + 1)
                     }
                 }}
                 style={{
