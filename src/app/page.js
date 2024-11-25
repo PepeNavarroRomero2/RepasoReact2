@@ -8,6 +8,11 @@ import SurveySimulator from "./SurveySimulator";
 import ShoppingList from "./ShoppingList";
 import LoginForm from "./LoginForm";
 import App from "./App";
+import MultiCounter from "./MultiCounter";
+import UserTable from "./UserTable";
+import GuessTheNumber from "./GuessTheNumber";
+import ThemeSelector from "./ThemeSelector";
+import LiveValidationForm from "./LiveValidationForm";
 
 export default function Home() {
   return (
@@ -46,6 +51,36 @@ export default function Home() {
       <h1>Ejercicio 7: Galería básica de imágenes</h1>
       <p>No se mu bien como hacerlo</p>
       <App/>
+      <br></br>
+      <br></br>
+      <br></br>
+      <h1>Ejercicio 8: Contador con múltiples instancias</h1>
+      <MultiCounter/>
+      <br></br>
+      <br></br>
+      <br></br>
+      <h1>Ejercicio 9: Tabla dinámica de usuarios</h1>
+      <UserTable/>
+      <br></br>
+      <br></br>
+      <br></br>
+      <h1>Ejercicio 10: Juego de adivinar un número</h1>
+      <GuessTheNumber/>
+      <br></br>
+      <br></br>
+      <br></br>
+      <h1>Ejercicio 11: Contador con formato de tiempo</h1>
+      <p>No se hace jijiji</p>
+      <br></br>
+      <br></br>
+      <br></br>
+      <h1>Ejercicio 12: Selector de temas de colores</h1>
+      <ThemeSelector/>
+      <br></br>
+      <br></br>
+      <br></br>
+      <h1>Ejercicio 13: Formulario con validación en vivo</h1>
+      <LiveValidationForm/>
       <br></br>
       <br></br>
       <br></br>
