@@ -38,7 +38,6 @@ export default function Home() {
       <br></br>
       <br></br>
       <h1>Ejercicio 5: ShoppingList</h1>
-      <p>No se mu bien como hacerlo</p>
       <ShoppingList />
       <br></br>
       <br></br>
@@ -49,7 +48,6 @@ export default function Home() {
       <br></br>
       <br></br>
       <h1>Ejercicio 7: Galería básica de imágenes</h1>
-      <p>No se mu bien como hacerlo</p>
       <App/>
       <br></br>
       <br></br>
@@ -70,7 +68,7 @@ export default function Home() {
       <br></br>
       <br></br>
       <h1>Ejercicio 11: Contador con formato de tiempo</h1>
-      <p>No se hace jijiji</p>
+      <p>No se hace</p>
       <br></br>
       <br></br>
       <br></br>
