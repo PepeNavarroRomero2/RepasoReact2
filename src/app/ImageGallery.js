@@ -12,7 +12,6 @@ export default function ImageGallery({ images }) {
   const prevImage = () => {
     setCurrentIndex((prevIndex) => (prevIndex - 1 + images.length) % images.length); // Si estamos al inicio, volvemos al final
   };
-
   return (
     <div>
       {/* Mostrar la imagen actual */}
